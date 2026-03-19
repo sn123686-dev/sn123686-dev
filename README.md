@@ -11,7 +11,7 @@ $saima = [
     'name'       => 'Saima Nadeem',
     'location'   => 'Islamabad, Pakistan 🇵🇰',
     'role'       => 'WordPress Developer & PHP Developer',
-    'skills'     => ['PHP', 'MySQL', 'WordPress', 'WooCommerce', 
+    'skills'     => ['PHP', 'MySQL', 'WordPress', 'WooCommerce',
                      'Elementor', 'HTML', 'CSS', 'JavaScript'],
     'learning'   => ['REST APIs', 'OpenAI API', 'Advanced PHP'],
     'available'  => true,
@@ -41,45 +41,13 @@ $saima = [
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 PHP & MySQL Projects
 
-### 📦 InvenPro — Inventory Management System
-> Professional inventory system with 20+ features built with PHP & MySQL
-
-- 🔐 Login & Registration with Guest Mode
-- 📊 Dashboard with real-time stats
-- 🔄 Stock In/Out tracking
-- 💱 Currency Conversion API
-- 🔖 Barcode Generator API
-- 📧 Email Alerts via Gmail SMTP
-- 📱 Fully Responsive
-
-[![View Project](https://img.shields.io/badge/View_Project-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sn123686-dev/inventory-system)
-
----
-
-### 🔐 AuthPro — Login & Registration System
-> Complete authentication system with role-based access control
-
-- 👥 Admin & User roles
-- 🔒 CSRF protection & account locking
-- 📜 Activity logs & login history
-- 🌙 Dark mode
-- 📱 Fully Responsive
-
-[![View Project](https://img.shields.io/badge/View_Project-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sn123686-dev/auth-pro)
-
----
-
-### 🎓 Student Management System
-> Complete student management system built with PHP & MySQL
-
-- 📚 Student CRUD operations
-- 🔍 Search & filter
-- 📥 Export to CSV
-- 📱 Fully Responsive
-
-[![View Project](https://img.shields.io/badge/View_Project-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sn123686-dev/student-management-system)
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| 🎓 **EduPro** | Full LMS with student login, performance charts, grades, attendance & fees | PHP, MySQL, CSS | [View →](https://github.com/sn123686-dev/student-management-system) |
+| 📦 **InvenPro** | Professional inventory system with 20+ features, 3 APIs & barcode generator | PHP, MySQL, APIs | [View →](https://github.com/sn123686-dev/inventory-system) |
+| 🔐 **AuthPro** | Complete auth system with CSRF protection, account locking & role-based access | PHP, MySQL, CSS | [View →](https://github.com/sn123686-dev/auth-pro) |
 
 ---
 
