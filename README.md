@@ -8,7 +8,7 @@
 ```php
 <?php
 $saima = [
-    'name'       => 'Saima Nadeem',
+    'name'       => 'Saima Nadeemm',
     'location'   => 'Islamabad, Pakistan 🇵🇰',
     'role'       => 'WordPress Developer & PHP Developer',
     'skills'     => ['PHP', 'MySQL', 'WordPress', 'WooCommerce',
